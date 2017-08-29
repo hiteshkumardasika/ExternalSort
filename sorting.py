@@ -1,4 +1,4 @@
-# sorting tukde
+# sorting tukde hence
 import psycopg2
 import sorts as s
 
